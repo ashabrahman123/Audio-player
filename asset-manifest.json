@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Audio-player/static/css/main.195f908d.css",
+    "main.js": "/Audio-player/static/js/main.080ac891.js",
+    "static/media/Dunyia.mp3": "/Audio-player/static/media/Dunyia.eaf9166e6c430b8dc7dc.mp3",
+    "static/media/dil dil pakistan.mp3": "/Audio-player/static/media/dil dil pakistan.e49d8ac107822851d35b.mp3",
+    "static/media/on my way.mp3": "/Audio-player/static/media/on my way.4563deaac59a1173608c.mp3",
+    "static/media/kahani-suno.mp3": "/Audio-player/static/media/kahani-suno.93363ce4257aebe6d4df.mp3",
+    "static/media/hymen for the weekend.mp3": "/Audio-player/static/media/hymen for the weekend.fd8cb1e949c59157d159.mp3",
+    "static/media/Dil-Dil-Pakistan-Show.jpg": "/Audio-player/static/media/Dil-Dil-Pakistan-Show.900f52ca99fa5bc699d9.jpg",
+    "static/media/dunia.jpg": "/Audio-player/static/media/dunia.3d9e5439b6a8abf64250.jpg",
+    "static/media/hymen for weekend.jpg": "/Audio-player/static/media/hymen for weekend.648bde9ebfe0580bdf98.jpg",
+    "static/media/on my way.jpg": "/Audio-player/static/media/on my way.fd1eb090322ace043bdc.jpg",
+    "index.html": "/Audio-player/index.html",
+    "main.195f908d.css.map": "/Audio-player/static/css/main.195f908d.css.map",
+    "main.080ac891.js.map": "/Audio-player/static/js/main.080ac891.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.195f908d.css",
+    "static/js/main.080ac891.js"
+  ]
+}
