@@ -7,7 +7,7 @@
     margin-top: 100px;
     padding-top: 50px;
     margin-bottom: 80px;
-    height: 800px;
+    height: 850px;
    /* background-color:hsl(32, 100%, 51%) ;  */
     box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
 }
@@ -27,8 +27,6 @@
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-   
-    /* position: fixed; */
     margin-top: 80px;
     
 }
@@ -38,10 +36,10 @@
     width: 80px;
     border: 2px solid black;
     border-radius: 20px;
-    /* padding-left: 20px; */
     margin-left: 10px;
     font-size: 30px;
     background-color: #11BBF4 ;
+   margin-top: 20px;
 }
 
 .btnnns{
@@ -49,12 +47,12 @@
     width: 80px;
     border: 2px solid black;
     border-radius: 20px;
-    /* padding-left: 20px; */
     margin-left: 10px;
     font-size: 20px;
     font-weight: bold;
-    background-color:#11BBF4 ;
-
+    background-color:#11BBF4;
+   margin-top: 20px;
+    
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -77,8 +75,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .audioimg img{
-    width: 380px;
-    /* border: 2px solid white; */
+    width: 100%;
     border-radius: 12000px;
 }
 
